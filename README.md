@@ -6,5 +6,5 @@
 ##### 2 QDC Project - Cartier - Contribution as a coach
 ##### 3 QDC Project - Q8 - Main Contriibution to the code
 ##### 4 Project for Fun / Generating an email based on inputs
-##### 5 NLP template project - 
+##### 5 NLP project - Using NLP / Sentiment Analysis on ECB speeches
 ##### 6 Text Scraping project
