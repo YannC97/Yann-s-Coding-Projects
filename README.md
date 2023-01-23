@@ -17,8 +17,7 @@
 
 ##### 7 Replication Project / Coding in STATA - Mazumder et.al (2019) [2022]
 
-##### 8 Replication Project / Coding in STATA -  A Critical Review of “Political Fragmentation and Government Stability.
-Evidence from Local Governments in Spain” [2021]
+##### 8 Replication Project / Coding in STATA -  A Critical Review of “Political Fragmentation and Government Stability. Evidence from Local Governments in Spain” [2021]
 
 
 # Projects written in French
