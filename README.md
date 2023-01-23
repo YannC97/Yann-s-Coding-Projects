@@ -20,7 +20,7 @@
 ##### 8 Replication Project / Coding in STATA -  A Critical Review of “Political Fragmentation and Government Stability. Evidence from Local Governments in Spain” [2021]
 
 
-# Projects written in French
+### Projects written in French
 ##### 9 SAS project - Are Wealthier countries more likely to have more COVID Deaths [2020]
 
 ##### 10 SPSS project - Clustering Customers with focus on sobriety (PowerPoint Presentation) [2020]
