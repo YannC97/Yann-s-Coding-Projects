@@ -3,6 +3,8 @@
 ### File Containing all my Coding Projects numbered here below >
 #### Date of Project in []
 
+##### 1 Python Project - Code from Master's Thesis [2022]
+
 ##### 1 Python Project - Finding the Return of the Momentum Strategi (Jagadesh and Titman) [2020]
 
 ##### 2 UIO Applied Time Series Econometrics Project (TBD) [2023]
